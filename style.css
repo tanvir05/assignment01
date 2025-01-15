@@ -1,24 +1,36 @@
+/* fira sans font */
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
 *{
     margin: 0px;
     padding: 0px;
+    background-color: #F5F5F5;
 }
-.nav{
+nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 10px;
 }
 
-.sign{
+.sign-btn{
    padding: 10px 15px 10px 15px;
    box-sizing: border-box;
+   font-weight: bold;
+   color: #006A50;
    border: 1px solid rgb(0, 106, 80);
    border-radius: 8px;
    
 }
 
-.banner-container{
-    width: 1280px;
-    height: 560px;
+#hero{
+    border-radius: 24px;
+
 background: rgb(198, 228, 214);
-background-image: url("./assets/hero.png");
 }
