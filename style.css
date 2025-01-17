@@ -5,6 +5,114 @@
     /* width: 1600;
     height: 5300; */
 
+    .fira-sans-thin {
+        font-family: "Fira Sans", serif;
+        font-weight: 100;
+        font-style: normal;
+    }
+
+    .fira-sans-extralight {
+        font-family: "Fira Sans", serif;
+        font-weight: 200;
+        font-style: normal;
+    }
+
+    .fira-sans-light {
+        font-family: "Fira Sans", serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+
+    .fira-sans-regular {
+        font-family: "Fira Sans", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .fira-sans-medium {
+        font-family: "Fira Sans", serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .fira-sans-semibold {
+        font-family: "Fira Sans", serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    .fira-sans-bold {
+        font-family: "Fira Sans", serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .fira-sans-extrabold {
+        font-family: "Fira Sans", serif;
+        font-weight: 800;
+        font-style: normal;
+    }
+
+    .fira-sans-black {
+        font-family: "Fira Sans", serif;
+        font-weight: 900;
+        font-style: normal;
+    }
+
+    .fira-sans-thin-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 100;
+        font-style: italic;
+    }
+
+    .fira-sans-extralight-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 200;
+        font-style: italic;
+    }
+
+    .fira-sans-light-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 300;
+        font-style: italic;
+    }
+
+    .fira-sans-regular-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .fira-sans-medium-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 500;
+        font-style: italic;
+    }
+
+    .fira-sans-semibold-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 600;
+        font-style: italic;
+    }
+
+    .fira-sans-bold-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 700;
+        font-style: italic;
+    }
+
+    .fira-sans-extrabold-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 800;
+        font-style: italic;
+    }
+
+    .fira-sans-black-italic {
+        font-family: "Fira Sans", serif;
+        font-weight: 900;
+        font-style: italic;
+    }
+
 }
 
 
@@ -24,6 +132,10 @@
     color: #006A50;
     font-weight: bold;
     border-radius: 10px;
+}
+
+.sign:hover {
+    background-color: #25e68c;
 }
 
 /* banner style */
@@ -73,6 +185,10 @@
     border-radius: 10px;
     font-weight: bold;
     gap: 48;
+}
+
+.explore:hover {
+    background-color: #25e68c;
 }
 
 .banner-img {
@@ -154,6 +270,10 @@ main {
     gap: 48;
 }
 
+.blue-button:hover {
+    background-color: #25e68c;
+}
+
 .green {
     background-color: rgba(198, 228, 214, 1);
 }
@@ -168,6 +288,10 @@ main {
     gap: 48;
 }
 
+.green-button:hover {
+    background-color: #25e68c;
+}
+
 .yellow {
     background-color: rgba(247, 235, 207, 1);
 }
@@ -180,6 +304,10 @@ main {
     border-radius: 10px;
     font-weight: bold;
     gap: 48;
+}
+
+.yellow-button:hover {
+    background-color: #25e68c;
 }
 
 .quotes {
@@ -228,6 +356,10 @@ th {
     gap: 12;
 }
 
+.selection:hover {
+    background-color: #25e68c;
+}
+
 .news {
     margin-top: 80px;
     margin-bottom: 80px;
@@ -269,6 +401,10 @@ th {
     gap: 48;
 }
 
+.button2:hover {
+    background-color: #25e68c;
+}
+
 .donate {
     gap: 24px;
     padding: 24px;
@@ -294,6 +430,10 @@ th {
     border-radius: 16px;
 }
 
+.TK:hover {
+    background-color: #25e68c;
+}
+
 .two {
     background-color: #C6E4D6;
 }
@@ -316,6 +456,10 @@ th {
     border-radius: 8px;
     font-weight: bold;
     gap: 48;
+}
+
+.done:hover {
+    background-color: #25e68c;
 }
 
 .newsletter {
@@ -351,6 +495,10 @@ th {
     border-radius: 10px;
     font-weight: bold;
     gap: 48;
+}
+
+.subs-btn:hover {
+    background-color: #25e68c;
 }
 
 footer {
